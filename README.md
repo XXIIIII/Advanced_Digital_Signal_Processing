@@ -4,7 +4,7 @@ This repository contains homework assignments for the 2024 Advanced Digital Sign
 
 ## Homework Assignments
 
-- **HW1:** 
+- **HW1:** Mini-max lowpass FIR filter
 - **HW2:** 
 - **HW3:** 4:2:0 image compression technique
 - **HW4:** 
