@@ -9,4 +9,4 @@ This repository contains homework assignments and final report for the 2024 Adva
 - **HW3:** 4:2:0 image compression technique
 - **HW4:** SSIM
 - **HW5:** Single-FFT Method for Two N-Point Real Signals
-- **Final Report:** General Audio Feature Extraction 
+- **Final Report:** A detailed report on General Audio Feature Extraction 
