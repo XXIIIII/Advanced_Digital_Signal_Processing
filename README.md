@@ -5,7 +5,7 @@ This repository contains homework assignments for the 2024 Advanced Digital Sign
 ## Homework Assignments
 
 - **HW1:** Mini-max lowpass FIR filter
-- **HW2:**  Hilbert transform filter using frequency sampling method 
+- **HW2:** Hilbert transform filter using frequency sampling method 
 - **HW3:** 4:2:0 image compression technique
-- **HW4:** 
-- **HW5:** 
+- **HW4:** SSIM
+- **HW5:** Single-FFT Method for Two N-Point Real Signals
